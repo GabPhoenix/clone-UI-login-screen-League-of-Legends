@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>duvida.png</file>
+    <file>config.png</file>
+    <file>apple.png</file>
+    <file>btnadv.png</file>
+    <file>face.png</file>
+    <file>google.png</file>
+    <file>22.png</file>
+    <file>L.png</file>
+  </qresource>
+</RCC>
